@@ -4,8 +4,10 @@
 
 **Frontend & Web Developer | Building Interactive Apps & Modern Digital Experiences**
 
-[![GitHub followers](https://img.shields.io/github/followers/ath1t?style=for-the-badge&logo=github&color=181717)](https://github.com/ath1t)
-[![Profile Views](https://komarev.com/ghpvc/?username=ath1t&style=for-the-badge&color=0e75b6)](https://github.com/ath1t)
+<p>
+  <img src="https://img.shields.io/badge/GitHub-Followers-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=ath1t&style=for-the-badge&color=0e75b6" />
+</p>
 
 </div>
 
