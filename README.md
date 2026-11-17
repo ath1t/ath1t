@@ -54,17 +54,8 @@
 
 ### 📊 GitHub Analytics
 
-<p align="center">
-  <a href="https://github.com/ath1t">
-    <img src="https://github-readme-stats.vercel.app/api?username=ath1t&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180" />
-  </a>
-  <a href="https://github.com/ath1t">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ath1t&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
-  </a>
-</p>
+The third-party stats cards were removed because their image service is returning a broken “?”. GitHub’s own pages provide the live data:
 
-<p align="center">
-  <a href="https://github.com/ath1t">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ath1t&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
-</p>
+- [Profile and contribution activity](https://github.com/ath1t)
+- [Repositories and language breakdown](https://github.com/ath1t?tab=repositories)
+- [Repository insights and traffic](https://github.com/ath1t/ath1t/graphs)
