@@ -55,10 +55,10 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ath1t&amp;show_icons=true&amp;theme=tokyonight" alt="Thio's GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ath1t&amp;layout=compact&amp;langs_count=8&amp;theme=tokyonight" alt="Top languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ath1t&show_icons=true&theme=tokyonight" alt="Thio's GitHub stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ath1t&layout=compact&langs_count=8&theme=tokyonight" alt="Top languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ath1t&amp;theme=tokyonight" alt="GitHub contribution streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ath1t&theme=tokyonight" alt="GitHub contribution streak" />
 </div>
