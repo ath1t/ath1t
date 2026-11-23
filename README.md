@@ -55,11 +55,10 @@ Building responsive web apps, useful automation, and practical digital experienc
 
 | Project | Description | Technologies | Links |
 |:---|:---|:---|:---|
-| **LED Signboard** | Responsive LED text display with PWA support | `JavaScript` `PWA` | [Repo](https://github.com/ath1t) |
-| **Personal Portfolio** | Personal portfolio and project showcase | `HTML` `CSS` `JavaScript` | [Repo](https://github.com/ath1t) |
-| **MBTI Test** | Interactive personality assessment application | `JavaScript` `Web App` | [Repo](https://github.com/ath1t) |
-| **Laintmal** | Digital dice-rolling application | `JavaScript` | [Repo](https://github.com/ath1t) |
-| **MySub** | Public proxy subscription aggregator with country-based lists and automated updates | `Python` `GitHub Actions` | [Repo](https://github.com/ath1t/mysub) · [Live](https://ath1t-mysub.vercel.app) |
+| **MySub** | Public proxy subscription aggregator with country-based lists, GeoIP filtering, and automated 3-hour GitHub Actions updates | `Python` `GitHub Actions` `Vercel` | [Repo](https://github.com/ath1t/mysub) · [Live](https://ath1t-mysub.vercel.app) |
+| **Canva Linux App** | Desktop wrapper and Linux integration utility for running Canva natively on Linux environments | `Linux` `Bash` `Web Wrapper` | [Repo](https://github.com/ath1t/canva-linux-app) |
+| **Loves Me Not** | Interactive playful decision and flower-petal web experience | `HTML` `CSS` `JavaScript` | [Repo](https://github.com/ath1t/Loves_me_not) |
+| **Flirt Fast** | Interactive lightweight web app for quick, playful prompts and responses | `HTML` `CSS` `JavaScript` | [Repo](https://github.com/ath1t/flirt_fast) |
 
 ---
 
