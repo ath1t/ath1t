@@ -1,11 +1,8 @@
-
 <div align="center">
 
 # Hi, I'm Thio! 👋
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Frontend+Developer;Python+Automation;Web+App+Builder;UI%2FUX+Enthusiast;Building+Useful+Digital+Tools" alt="Typing SVG" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=Frontend+Developer;Python+Automation;Web+App+Builder;UI%2FUX+Enthusiast" alt="Typing SVG" />
 
 <p>
   <img src="https://img.shields.io/github/followers/ath1t?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=181717" alt="GitHub Followers" />
@@ -15,7 +12,7 @@
 
 **Frontend Developer · Python Automation · Web Tools**
 
-Building responsive web applications, automation tools, and practical digital experiences.
+Building responsive web apps, useful automation, and practical digital experiences.
 
 </div>
 
@@ -23,18 +20,16 @@ Building responsive web applications, automation tools, and practical digital ex
 
 ## 🚀 About Me
 
-- 💻 Building responsive, user-focused web applications.
-- 🐍 Exploring Python automation and scripting.
-- ⚡ Turning ideas into functional digital products.
-- 🔧 Working with APIs, GitHub Actions, and cloud-based tools.
+- 💻 Creating responsive, accessible, and user-focused web applications.
+- 🐍 Building Python scripts and automations for practical workflows.
+- ⚡ Turning ideas into clean, functional digital products.
+- 🔧 Working with APIs, GitHub Actions, Linux, and cloud-based tools.
 - 🎨 Interested in modern UI/UX and frontend engineering.
 - 🌱 Continuously learning and experimenting with new technologies.
 
 ---
 
 ## 🧰 Tech Stack
-
-### Languages & Web
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -44,8 +39,6 @@ Building responsive web applications, automation tools, and practical digital ex
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
 </p>
-
-### Frameworks & Tools
 
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
@@ -62,11 +55,11 @@ Building responsive web applications, automation tools, and practical digital ex
 
 | Project | Description | Technologies |
 |:---|:---|:---|
-| **LED Signboard** | Responsive LED text display with PWA functionality | `JavaScript` `PWA` |
-| **Personal Portfolio** | Personal portfolio and project showcase | `HTML` `CSS` `JavaScript` |
-| **MBTI Test** | Interactive personality assessment application | `JavaScript` `Web App` |
-| **Laintmal** | Digital dice-rolling application | `JavaScript` |
-| **MySub** | Public proxy subscription aggregator with country-based lists and automated updates | `Python` `GitHub Actions` |
+| **[LED Signboard](https://github.com/ath1t)** | Responsive LED text display with PWA support | `JavaScript` `PWA` |
+| **[Personal Portfolio](https://github.com/ath1t)** | Personal portfolio and project showcase | `HTML` `CSS` `JavaScript` |
+| **[MBTI Test](https://github.com/ath1t)** | Interactive personality assessment application | `JavaScript` `Web App` |
+| **[Laintmal](https://github.com/ath1t)** | Digital dice-rolling application | `JavaScript` |
+| **[MySub](https://github.com/ath1t)** | Public proxy subscription aggregator with country-based lists and automated updates | `Python` `GitHub Actions` |
 
 ---
 
@@ -75,7 +68,7 @@ Building responsive web applications, automation tools, and practical digital ex
 <div align="center">
 
 <a href="https://github.com/ath1t">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ath1t&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Statistics" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ath1t&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" alt="GitHub Statistics" />
 </a>
 <a href="https://github.com/ath1t?tab=repositories">
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ath1t&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Top Languages" />
