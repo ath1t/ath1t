@@ -53,13 +53,13 @@ Building responsive web apps, useful automation, and practical digital experienc
 
 ## 📦 Featured Projects
 
-| Project | Description | Technologies |
-|:---|:---|:---|
-| **[LED Signboard](https://github.com/ath1t)** | Responsive LED text display with PWA support | `JavaScript` `PWA` |
-| **[Personal Portfolio](https://github.com/ath1t)** | Personal portfolio and project showcase | `HTML` `CSS` `JavaScript` |
-| **[MBTI Test](https://github.com/ath1t)** | Interactive personality assessment application | `JavaScript` `Web App` |
-| **[Laintmal](https://github.com/ath1t)** | Digital dice-rolling application | `JavaScript` |
-| **[MySub](https://github.com/ath1t)** | Public proxy subscription aggregator with country-based lists and automated updates | `Python` `GitHub Actions` |
+| Project | Description | Technologies | Links |
+|:---|:---|:---|:---|
+| **LED Signboard** | Responsive LED text display with PWA support | `JavaScript` `PWA` | [Repo](https://github.com/ath1t) |
+| **Personal Portfolio** | Personal portfolio and project showcase | `HTML` `CSS` `JavaScript` | [Repo](https://github.com/ath1t) |
+| **MBTI Test** | Interactive personality assessment application | `JavaScript` `Web App` | [Repo](https://github.com/ath1t) |
+| **Laintmal** | Digital dice-rolling application | `JavaScript` | [Repo](https://github.com/ath1t) |
+| **MySub** | Public proxy subscription aggregator with country-based lists and automated updates | `Python` `GitHub Actions` | [Repo](https://github.com/ath1t/mysub) · [Live](https://ath1t-mysub.vercel.app) |
 
 ---
 
