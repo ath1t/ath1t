@@ -11,10 +11,10 @@
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Vibe-Coder-7C3AED?style=for-the-badge&logo=sparkles&logoColor=white" alt="Vibe Coder" />
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
-  <img src="https://img.shields.io/badge/OpenAI-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/Vibe-Coder-7C3AED?style=flat&logo=sparkles&logoColor=white" alt="Vibe Coder" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/OpenAI-10A37F?style=flat&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat&logo=googlegemini&logoColor=white" alt="Gemini" />
 </p>
 
 **Frontend Developer · Python Automation · Web Tools**
