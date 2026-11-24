@@ -2,12 +2,19 @@
 
 # Hi, I'm Thio! 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=Frontend+Developer;Python+Automation;Web+App+Builder;UI%2FUX+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=Frontend+Developer;Python+Automation;Web+App+Builder;Vibe+Coder+%26+UI%2FUX+Enthusiast" alt="Typing SVG" />
 
 <p>
   <img src="https://img.shields.io/github/followers/ath1t?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=181717" alt="GitHub Followers" />
   <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fath1t&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&logo=github&color=181717" alt="Public Repositories" />
   <img src="https://komarev.com/ghpvc/?username=ath1t&style=for-the-badge&color=7C3AED&label=Profile+Views" alt="Profile Views" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Vibe-Coder-7C3AED?style=for-the-badge&logo=sparkles&logoColor=white" alt="Vibe Coder" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/OpenAI-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
 </p>
 
 **Frontend Developer · Python Automation · Web Tools**
